@@ -1,2 +1,2 @@
 # Whatsup-chat-dev
-dev the whatsup chatting app
+develop the whatsup chatting app
