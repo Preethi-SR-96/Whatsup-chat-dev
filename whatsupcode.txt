@@ -1,4 +1,4 @@
-Whatsup code development
+Whatsup code development:
 
 1. Chat code
 2. File sharing code
@@ -6,3 +6,5 @@ Whatsup code development
 4. Status Code
 5. Settings Code
 6. Contacts Code
+7. Hiding last seen code
+8. Privacy code
