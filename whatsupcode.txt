@@ -1,0 +1,8 @@
+Whatsup code development
+
+1. Chat code
+2. File sharing code
+3. Last Seen Code
+4. Status Code
+5. Settings Code
+6. Contacts Code
