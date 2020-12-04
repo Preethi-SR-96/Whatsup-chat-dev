@@ -8,3 +8,5 @@ Whatsup code development:
 6. Contacts Code
 7. Hiding last seen code
 8. Privacy code
+9. Audio Call
+10. Video Call
